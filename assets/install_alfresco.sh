@@ -4,8 +4,8 @@ set -e
 # vars
 export JAVA_HOME=/usr/java/latest
 ALF_HOME=/alfresco
-ALF_BIN=alfresco-community-installer-201707-linux-x64.bin
-ALF_URL=http://dl.alfresco.com/release/community/201707-build-00028/$ALF_BIN
+ALF_BIN=alfresco-community-installer-4.2.f-linux-x64.bin
+ALF_URL=http://dl.alfresco.com/release/community/4.2.f-build-00012/$ALF_BIN
 
 # get alfresco installer
 mkdir -p $ALF_HOME
